@@ -1,0 +1,29 @@
+_repo: The-History-of-Sulu_41771
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41771-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Saleeby, Najeeb M. (Najeeb Mitry)
+    alias: Saleeby, N. M. (Najeeb Mitry)
+    birthdate: 1870
+    gutenberg_agent_id: '41348'
+    url: http://www.gutenberg.org/2009/agents/41348
+description: ''
+gutenberg_issued: '2013-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41771'
+  lccn: '11032434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Mindanao Island (Philippines) -- History'
+- !lcsh 'Muslims -- Philippines'
+- !lcsh 'Sulu Archipelago (Philippines) -- History'
+title: The History of Sulu
+url: http://www.gutenberg.org/ebooks/41771
